@@ -1,0 +1,17 @@
+{
+    "name": "meichior/the-end-sky",
+    "description": "PHP imageboard project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Meichior\\TheEndSky\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Toyone Navi",
+            "email": "Toyone@Mahjong.moe"
+        }
+    ],
+    "require": {}
+}
